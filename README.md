@@ -1,5 +1,5 @@
 # Melbourne-File
-* ML real estate.
+* ML real estate project.
 * Project is provided with a csv file containing collected data.
 * Data undergoes Data Analysis operations.
 * Data undergoes Data Visualization operations.
